@@ -1,0 +1,36 @@
+{
+  "name": "beyond-layout",
+  "version": "0.1",
+  "homepage": "https://github.com/socites/beyond-layout",
+  "authors": [
+    "socites"
+  ],
+  "description": "Layout library for BeyondJS",
+  "main": [
+    "library.json"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "beyondjs",
+    "javascript",
+    "library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/socites/beyond-layout.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".log",
+    "package.json"
+  ]
+}
